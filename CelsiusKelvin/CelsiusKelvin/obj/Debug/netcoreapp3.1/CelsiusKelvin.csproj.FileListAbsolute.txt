@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.exe
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.deps.json
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.runtimeconfig.json
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.dll
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.pdb
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.dll
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.pdb
+C:\Users\Admin\Desktop\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.exe
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.deps.json
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.runtimeconfig.json
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.dll
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\bin\Debug\netcoreapp3.1\CelsiusKelvin.pdb
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.dll
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.pdb
+C:\Users\Admin\Desktop\Homework 31.10.2022\CelsiusKelvin\CelsiusKelvin\obj\Debug\netcoreapp3.1\CelsiusKelvin.genruntimeconfig.cache
